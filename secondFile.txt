@@ -1,9 +1,13 @@
 1
+<<<<<<< HEAD
 2 other update
+=======
+2updated
+>>>>>>> git_2
 3
 4
 5
-6
+6updated
 7
 8 other update
 9
